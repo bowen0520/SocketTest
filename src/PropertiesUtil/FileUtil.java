@@ -15,6 +15,7 @@ public class FileUtil{
             //test
             util.load(new FileInputStream("file.properties"));
             //master
+            //socket2222
         } catch (IOException e) {
             e.printStackTrace();
         }
